@@ -1,0 +1,17 @@
+React
+- Axios / HTTP requests
+- Build
+- Test 
+- UI framworks
+- List filter (type, category...)
+- Blog
+- MongoDB
+
+Visual
+- Sass, SCSS
+- Tailwind
+- Threejs
+- React three fiber
+- AR, Aframe
+- Game
+- DMX/OSC control
