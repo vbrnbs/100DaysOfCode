@@ -1,0 +1,31 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group, .find-user {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+input {
+   width: 20vw;
+   border-radius: 10px;
+   padding: 10px 20px;
+}
+
+
+
+img {
+    border-radius: 50%;
+    margin: 5vh 0px;
+}
+
+ul {
+    text-align: center;
+    list-style-type:none;
+    line-height: 1.8;
+}
